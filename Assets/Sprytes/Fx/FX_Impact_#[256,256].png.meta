@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 18c5597d22ce447ab87d3675314b8d49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3668191748931987558
+    second: FX_Impact_#[256,256]_0
+  - first:
+      213: -9013199453580706811
+    second: FX_Impact_#[256,256]_1
+  - first:
+      213: -4059058656021001085
+    second: FX_Impact_#[256,256]_2
+  - first:
+      213: 9022930634835437006
+    second: FX_Impact_#[256,256]_3
+  - first:
+      213: -4765990063858356022
+    second: FX_Impact_#[256,256]_4
+  - first:
+      213: -7908555432846561851
+    second: FX_Impact_#[256,256]_5
+  - first:
+      213: 1738276399403567020
+    second: FX_Impact_#[256,256]_6
+  - first:
+      213: -5429439903052062760
+    second: FX_Impact_#[256,256]_7
+  - first:
+      213: -1107789943631561557
+    second: FX_Impact_#[256,256]_8
+  - first:
+      213: 3319271535149947679
+    second: FX_Impact_#[256,256]_9
+  - first:
+      213: -103352731656800575
+    second: FX_Impact_#[256,256]_10
+  - first:
+      213: -7723057728583880969
+    second: FX_Impact_#[256,256]_11
+  - first:
+      213: -8199621583852809307
+    second: FX_Impact_#[256,256]_12
+  - first:
+      213: -8606652867401476303
+    second: FX_Impact_#[256,256]_13
+  - first:
+      213: -889241449533183502
+    second: FX_Impact_#[256,256]_14
+  - first:
+      213: -392172490889766985
+    second: FX_Impact_#[256,256]_15
+  - first:
+      213: -6636146631387312117
+    second: FX_Impact_#[256,256]_16
+  - first:
+      213: 9196718530401387083
+    second: FX_Impact_#[256,256]_17
+  - first:
+      213: 2795042703669539265
+    second: FX_Impact_#[256,256]_18
+  - first:
+      213: -4031047815636916490
+    second: FX_Impact_#[256,256]_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1098
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a889a454121744b19e44cfceb127fec
+      internalID: -3668191748931987558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1087
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7921ed0c5dbb04b38b9d4d2c7a9863ad
+      internalID: -9013199453580706811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1075
+        width: 149
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb135864903f34641a65bc6febd17c97
+      internalID: -4059058656021001085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_3
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1058
+        width: 182
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f59fd9078df34f21ae42f90df0389ec
+      internalID: 9022930634835437006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 794
+        width: 198
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c524484086ce493881ca966882afb05
+      internalID: -4765990063858356022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 794
+        width: 199
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a32fde70fffd4ff7a99022e1af8f7dd
+      internalID: -7908555432846561851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 794
+        width: 203
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5652b542038456eb1efe6dc632f3a9
+      internalID: 1738276399403567020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_7
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 794
+        width: 205
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0992104160aa947ae939d16fdb3cd29c
+      internalID: -5429439903052062760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 538
+        width: 209
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de352ba77923b40789d0e5e480ff620b
+      internalID: -1107789943631561557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 538
+        width: 211
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464112929de2549f5a9ca93b4cd04085
+      internalID: 3319271535149947679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 538
+        width: 208
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c505a06942848b192a2187891442ab
+      internalID: -103352731656800575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_11
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 536
+        width: 203
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad780d857151d4372925d8a1cab2e78c
+      internalID: -7723057728583880969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 190
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef1116b0209740779cc34aebfd64f1b
+      internalID: -8199621583852809307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 280
+        width: 186
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6cb04ff7c884f1287998e9fc7b123d
+      internalID: -8606652867401476303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 294
+        width: 171
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a403ab33da4d444dbc314a5e00d6d61
+      internalID: -889241449533183502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_15
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 295
+        width: 171
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfb3b25d0dd14730aff73d8217a7311
+      internalID: -392172490889766985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 55
+        width: 167
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f731b92ba060b4742af7405ced3db880
+      internalID: -6636146631387312117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 78
+        width: 164
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac44eb7edd6d44f84808347f2b20cd80
+      internalID: 9196718530401387083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_18
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 206
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3854aa08a15b34413b9824df8c30be1d
+      internalID: 2795042703669539265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_Impact_#[256,256]_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 88
+        width: 123
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aab7ae8f55f48888b8769d8fccb788
+      internalID: -4031047815636916490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
